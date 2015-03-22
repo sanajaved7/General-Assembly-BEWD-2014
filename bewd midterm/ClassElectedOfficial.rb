@@ -1,3 +1,5 @@
+#This is a program which helps people locate the contact information for their Elected Officials with the help of the Sunlight Foundation API
+
 class Elected_Official
 	require 'rest-client'
 	require 'json'
