@@ -97,3 +97,5 @@ show_message("Welcome to Teddit! a text based news aggregator. Get today's news 
 stories = get_from_digg + get_from_mashable + get_from_reddit
 
 show_all_stories stories
+
+# Incredible job on this, Sana!  Very clean and simple code.  I wish I had more constructive feedback for you but I have nothing.  Keep up the great work!
